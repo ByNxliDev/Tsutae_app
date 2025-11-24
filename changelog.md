@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.0 r_3 – 2025-11-23
+
+### Added
+- Ability to receive friend request notifications.
+- Option to set your friends list to private.
+- Option to set note duration (12 to 24 hours).
+
+### Improved
+- Several interfaces were improved.
+- Settings screen now fully works (except the risk zone).
+- The app now aligns more closely with Google’s Material Expressive 3 design.
+- Improved music selection interface (icons now change when music is playing or paused).
+- Additional optimizations.
+
+### Fixed
+- Critical errors fixed.
+- Fixed bugs related to the back buttons.
+
 ## v1.0 r_2 – 2025-20-11
 ### Added
 - Option to add music.
