@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0 r_4 – 2025-11-25
+
+### Added
+- Payment dependencies were added for future updates
+
 ## v1.0 r_3 – 2025-11-23
 
 ### Added
