@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.0 r_5 – 2025-11-28
+
+### Added
+- Added buttons for upcoming features and activities
+
+### Improved
+- Changes to some screens
+- Changes to the app home screen (Unauthenticated)
+- Functional note purchase screen (BETA)
+
+### Fixed
+- Bug fixes
+
 ## v1.0 r_4 – 2025-11-25
 
 ### Added
