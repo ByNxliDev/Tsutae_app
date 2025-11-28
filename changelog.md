@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0 r_6 – 2025-11-28
+
+### Fixed
+- Critical error preventing the app from starting fixed
+  
 ## v1.0 r_5 – 2025-11-28
 
 ### Added
