@@ -1,5 +1,26 @@
 # Changelog
 
+## v1.1 r_1 – 2025-07-12
+
+### Added
+- Added the Edit Profile screen.
+- Added user search bar.
+- Added vibrations (with disable option).
+- Added sound effects (with disable option).
+- Added dependencies for Material Expressive 3.
+- Added the option to choose a note color in Note Customization (beta).
+- Added the ability to remove photos before uploading a note.
+
+### Changed / Improved
+- Several screens were updated: Profile, Home, User Profiles, Settings, Note Purchase, Lost Internet Connection, Create Note, Note Details.
+- Updated various buttons and animations.
+- Some ProgressBars were replaced with Loaders.
+- Notes no longer have a background; only the profile picture and note title are shown.
+
+### Removed
+- Removed the "Expired Note" option.
+- Hidden the Premium section.
+
 ## v1.0 r_6 – 2025-28-11
 
 ### Fixed
