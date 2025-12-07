@@ -1,11 +1,11 @@
 # Changelog
 
-## v1.0 r_6 – 2025-11-28
+## v1.0 r_6 – 2025-28-11
 
 ### Fixed
 - Critical error preventing the app from starting fixed
   
-## v1.0 r_5 – 2025-11-28
+## v1.0 r_5 – 2025-28-11
 
 ### Added
 - Added buttons for upcoming features and activities
@@ -18,12 +18,12 @@
 ### Fixed
 - Bug fixes
 
-## v1.0 r_4 – 2025-11-25
+## v1.0 r_4 – 2025-25-11
 
 ### Added
 - Payment dependencies were added for future updates
 
-## v1.0 r_3 – 2025-11-23
+## v1.0 r_3 – 2025-23-11
 
 ### Added
 - Ability to receive friend request notifications.
