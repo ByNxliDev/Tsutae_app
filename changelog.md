@@ -1,4 +1,4 @@
-![alt]([https://ruta.com/imagen.png](https://lh3.googleusercontent.com/Rvf3ssHvtUu4KfrXL8EMoIxk9KyDvRxf-XZq9fPvtBfCs3c147Fc3Blv4lBMkuvViQYOt8rSq6gAwjsHIe7cdYQ))
+![alt]([https://lh3.googleusercontent.com/Rvf3ssHvtUu4KfrXL8EMoIxk9KyDvRxf-XZq9fPvtBfCs3c147Fc3Blv4lBMkuvViQYOt8rSq6gAwjsHIe7cdYQ])
 # Changelog
 
 ## v1.0.0 – 2025-19-12
