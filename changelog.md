@@ -1,4 +1,23 @@
+![alt]([https://ruta.com/imagen.png](https://lh3.googleusercontent.com/Rvf3ssHvtUu4KfrXL8EMoIxk9KyDvRxf-XZq9fPvtBfCs3c147Fc3Blv4lBMkuvViQYOt8rSq6gAwjsHIe7cdYQ))
 # Changelog
+
+## v1.0.0 – 2025-19-12
+
+### Added
+- Ban screens
+- A credits / acknowledgements screen
+
+### Improved
+- Several interfaces
+- Map theme, now matching the application theme
+- Display of notes with images
+- "Free Notes" button, now works correctly after watching an ad
+
+### Removed
+- Personalization button (temporarily)
+- "Report User" button (temporarily)
+
+
 
 ## v1.1 r_1 – 2025-07-12
 
