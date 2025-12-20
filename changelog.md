@@ -2,6 +2,12 @@
 
 # Changelog
 
+## v1.0.1 – 2025-20-12
+
+### Improved
+- Bug fixes
+- The publish button is now displayed
+
 ## v1.0.0 – 2025-19-12
 
 ### Added
