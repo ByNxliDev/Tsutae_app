@@ -1,7 +1,11 @@
 ![alt](https://lh3.googleusercontent.com/Rvf3ssHvtUu4KfrXL8EMoIxk9KyDvRxf-XZq9fPvtBfCs3c147Fc3Blv4lBMkuvViQYOt8rSq6gAwjsHIe7cdYQ)
 
 # Changelog
+## v1.0.2 – 2025-21-12
 
+### Improved
+- Bug fixes
+  
 ## v1.0.1 – 2025-20-12
 
 ### Improved
